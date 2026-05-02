@@ -86,7 +86,7 @@
     "editmsg": true,
     "reactsw": {
       "on": false,
-      "emojis": ["😍", "😂", "😬", "🤢", "🤮", "🥰", "😭"]
+      "emojis": ["😍", "😂", "😡", "🗿", "🤮", "😱", "😭"]
     },
     "models": {
       "checkpoint": 1552,
