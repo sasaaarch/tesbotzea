@@ -161,7 +161,7 @@ export default async function on({ cht, Exp, store, ev, is, chatDb }) {
 
   ev.on(
     {
-      cmd: ['kick', 'add'],
+      cmd: ['tendang', 'add'],
       listmenu: ['kick', 'add'],
       tag: 'group',
       isGroup: true,
