@@ -7,7 +7,7 @@
   "ownername": "asha",
   "locale": "id",
   "cfg": {
-    "public": true,
+    "public": false,
     "ai_interactive": {
       "group": false,
       "private": true,
