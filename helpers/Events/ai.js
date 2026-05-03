@@ -667,7 +667,7 @@ ${loraText}
 
   ev.on(
     {
-      cmd: ['anya', 'aianya', 'aichat', 'ai_interactive'],
+      cmd: ['anyaku', 'aianya', 'aichat', 'ai_interactive'],
       tag: 'ai',
       listmenu: ['autoai'],
     },
