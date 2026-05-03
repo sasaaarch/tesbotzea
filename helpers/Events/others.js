@@ -11,7 +11,7 @@ export default async function on({ cht, Exp, store, ev, is }) {
 
   ev.on(
     {
-      cmd: ['anyakawai'],
+      cmd: ['zeakawai'],
       listmenu: ['menu'],
       tag: 'other',
     },
